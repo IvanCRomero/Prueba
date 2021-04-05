@@ -1,7 +1,7 @@
 package Modelo;
 
 public class Persistencia {
-	private String dato = "Soy un dato Constante";
+	private String dato = "ESTO ES UNA MODIFICACION";
 
 	public String getDato() {
 		return dato;
